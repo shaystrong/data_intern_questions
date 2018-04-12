@@ -10,6 +10,10 @@
 
 2. For the data in the table, use code or psuedo-code of your choice to rank the animal image counts in descending order.
 
+    a) What is apparent in this data set?
+
+    b) What things could be done to this data set to make the distribution of animals more balanced?
+
 ```
 animal,image_count,day_or_night
 crow, 436,day
@@ -24,8 +28,6 @@ warbler, 3, day
 
 ```
 
-    a) What is apparent in this data set?
 
-    b) What things could be done to this data set to make the distribution of animals more balanced?
 
 
