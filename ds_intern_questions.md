@@ -30,5 +30,5 @@ warbler, 3, day
 
 3. Extra Credit: Check out this branch and make your own branch. Add an image of one of these animals above to your new branch in whatever way you want. Commit it back to this repo. 
 
-## send your responses directly to shay.strong@eagleview.com
+## send your responses directly to shay.strong@eagleview.com. Don't upload your answers here, unless you want to share them with the world.
 
