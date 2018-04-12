@@ -28,6 +28,7 @@ warbler, 3, day
 
 ```
 
+3. Extra Credit: Check out this branch and make your own branch. Add an image of one of these animals above to your new branch in whatever way you want.
 
 ## send your responses directly to shay.strong@eagleview.com
 
