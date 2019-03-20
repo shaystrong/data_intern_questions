@@ -43,6 +43,11 @@ id,location,damage_classification_rank
 
 3. Extra Credit: Check out this repo and make your own branch. Add an image that is storm related. Commit it back to this repo. 
 
+- Sure, here it is - ZL
+- <img style="float: left;" src="https://images.pexels.com/photos/71116/hurricane-earth-satellite-tracking-71116.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="500px"/>
+- image from: https://www.pexels.com/
+
+
 4. Extra Extra Credit: Tell me about a machine learning approach that you would love to apply to this question that you think is novel or impractical, even.
 
 ## send your responses directly to shay.strong@eagleview.com. Don't upload your answers here, unless you want to share them with the world.
